@@ -1,0 +1,57 @@
+/*
+  Use the following to include this css file
+  <link rel="stylesheet" href="styles1.css" />
+*/
+#about {
+  color: blue;
+}
+#hobb{
+  color: brown;
+}
+#edu{
+  color: aqua;
+}
+#college {
+  font-weight: bold;
+}
+#highschool {
+  font-style: italic;
+}
+#index {
+  font-size: 100%;
+}
+#index:hover {
+  font-size: 150%;
+}
+td {
+  text-align: center;
+}
+th {
+  text-align: center;
+  color: blue;
+}
+#odd {
+  color: green;
+}
+#even { 
+  color: red;
+}
+#primary {
+  list-style: arabic-indic;
+}
+#second {
+  list-style: upper-alpha;
+}
+input[type=radio]:checked {
+  accent-color: green;
+}
+input[type=radio] {
+  background-color: grey;
+}
+input[type=checkbox] {
+  accent-color: blue;
+  background-color: grey;
+}
+h2{
+  color: blueviolet;
+}

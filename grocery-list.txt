@@ -1,0 +1,11 @@
+pantry	pepper	1
+produce	onion	5
+meat	chicken	2
+pantry	salt	1
+produce	corn	4
+dairy	butter	1
+produce	garlic	1
+pantry	broth	3
+produce	peppers	2
+dairy	eggs	12
+pantry	pasta	1
